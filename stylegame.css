@@ -91,8 +91,4 @@ button:hover {
     .gameinfo{
         margin-top: 30px;
     }
-    nav ul {
-        flex-direction: column; 
-        text-align: center;
-    }
 }
